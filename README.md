@@ -1,5 +1,5 @@
 # Antiviral Potency Prediction — Final Submission
-### Group XN | Nishant Chaudhari
+### Group XN 
 ### ASAP Discovery | SARS-CoV-2 Mpro pIC50
 
 > Machine learning pipeline for predicting antiviral potency against the SARS-CoV-2 main protease (Mpro), built on the [ASAP Discovery](https://polarishub.io/datasets/asap-discovery/antiviral-potency-2025-unblinded) dataset from Polaris Hub.
